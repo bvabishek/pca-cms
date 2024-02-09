@@ -1,0 +1,54 @@
+.page-content{
+   display: flex;
+   justify-content: center;
+}
+
+/* styles.css */
+.ag-theme-alpine.custom-grid .ag-root-wrapper {
+    font-size: 20px; /* Increase font size */
+    
+  }
+  
+  .ag-theme-alpine.custom-grid .ag-cell-value {
+    font-size: 16px; /* Increase cell value font size */
+    padding-right: 0px;
+  }
+  
+
+  .ag-theme-alpine.custom-grid .ag-header-cell:hover {
+    background-color: inherit; /* Prevent white background on hover */
+  }
+  
+  .ag-theme-alpine.custom-grid .ag-cell:hover {
+    background-color: inherit; /* Prevent white background on hover */
+  }
+  /* styles.css */
+
+  .custom-header {
+    background-color: #333;
+    color: white;
+    padding-left: 130px;
+  }
+  
+  .custom-header:hover {
+    background-color: white;
+    color: #333;
+  }
+
+  .btn-mod{
+    background-color: #333;
+    color: white;
+  }
+
+  .btn-container{
+    display: flex;
+    justify-content: end;
+  }
+  
+
+
+  
+  
+
+  
+  
